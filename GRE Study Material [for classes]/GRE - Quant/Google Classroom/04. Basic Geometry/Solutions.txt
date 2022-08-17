@@ -1,0 +1,34 @@
+Q1. triangle ABC similar to triangle EDC .....1  (using alternate angles and vertically opposite angles)
+plot point G on AC such that BG is perpendicular to AC
+triangle GBC similar to triangle FDC .....2  (using alternate angles and vertically opposite angles)
+AC/CE = BC/CD  ..........from 1
+BC/CD = 1/2
+BC/CD = BG/DF ...............from 2
+BG/DF = 1/2
+BG = 2
+area of ABC = 1/2  *  2  *  6 = 6
+
+
+
+Q5. nothing about triangle NMP is given so we must consider all possibilities
+Smallest possible MNP....area of shaded region will be greater than area of triangle.
+biggest MNP...occurs when NMP is equilateral triangle.
+assume radius to be 'R' calculate area of triangle in terms of R.
+Calculate area of shaded region by subtracting area of NMP from area of circle.
+Compare both areas.   still area of shaded region will be bigger...
+SO Option B
+
+
+
+Q7. Point O is on segment ST and no additional details is mentioned. It could be very near to the point S, midway of points S and T , on the top of point T
+(The graphic is misleading)
+Due to which the results may vary,
+Hence option D
+
+
+
+Q8. radius of small circle = 1 ..............from area
+side of square = 2
+diagonal of square = root (8)
+diameter of big circle = root(8)
+Area of larger circle = 2 (pi)

@@ -1,0 +1,53 @@
+Q3. (Draw for estimating)There are multiple ways to solve, i will illustrate the easiest. Because it is square we can first the point of intersection of diagonals using the mid-point formula. First find the midpoint using (-2, 3) and (3, 0).
+x = (-2+3)/2 = 0.5
+y = (3+0)/2 = 1.5
+Assume the 4th point is (X,Y)
+We should get the same midpoint using (-1,-1) and (X,Y)
+x = 0.5 = (-1+X)/2
+y = 1.5 = (-1+Y)/2
+So, the 4th point (X,Y) = (2,4).
+Other Method would be to simply calculating slopes for all options and using properties of parallel and perpendicular lines.
+
+
+
+Q5. lets say the point on x axis is C (d,0)
+Distance AC = Distance BC  ........use distance formula
+1 equation 1 variable
+solve for 'd'
+
+
+
+Q6. naming the points
+A(1,4)B(1,1)
+C(3,2)use distance formula
+AB = 3
+AC = sq.root(8)
+BC = sq.root(5)
+perimeter = AB+BC+AC
+use calculator to calculate the sq.roots
+
+
+
+Q7. Label Lines
+Line p y=x+2
+Line q y=-2x+20
+Line r y=4
+Get points of intersection
+Line p & Line q Point A (6,8)
+Line q & Line r Point B (8,4)
+Line r & Line p Point C (2,4)
+
+Base in BC = 8-2 = 6
+Height is = 8-4 = 4
+
+
+
+Q15. Option A cannot be the answer as it is not in the 2nd quadrant.
+Apply distance formula to find the radius of the circle.
+Options B,C,D,E all have y co-ordinate 1.
+We only have to find the X co-ordinate.
+Apply Distance formula again. AB=AC (both are radius)
+
+
+
+Q16. use slope formula. the variable 'a' will cancel out

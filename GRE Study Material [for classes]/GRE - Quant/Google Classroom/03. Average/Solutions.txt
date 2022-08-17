@@ -1,0 +1,3 @@
+Q10. Distance = 46 Km
+Time = 92 mins = 92/60 hr.
+Speed = 46/(92/60) = 30 km / hr.

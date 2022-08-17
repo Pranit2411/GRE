@@ -1,0 +1,91 @@
+Q3. (This question is difficult to prove so you can skip it)
+We need two thing to prove the question and an intuitive idea what the answer could be
+You should get a gut feeling that the answer is going to revolve around the number 9. So this number is important.
+1. If two numbers leave the same remainder when divided by a number 'd' then their difference is divisible by that number 'd'.
+2. Even after rearranging the digits, the remainder will remain the same if we are dividing by 9.
+
+Proof 1: Assume two numbers n1 and n2 leave the same remainder 'r' when divided by 'd'
+So we can write 
+n1 = a*d + r ......where 'a' is an integer 
+n2 = b*d + r ......where 'b' is an integer 
+n1  -  n2 = (a-b)*d
+(n1  -  n2) / d = (a-b) .....a-b is an integer
+so we can say that (n1 - n2) will be divisible by 'd' if both n1 and n2 leave the same remainder when divided by 'd'
+
+Proof 2: 
+   part A:
+The remainder when 'n' is divided by 'd' is equal to the remainder when (n-(a*d)) is divided by 'd', where 'a' is an integer.
+(i am going to leave this part for students to prove and explore, it is easy, same concept as in Proof 1)
+   part B:
+lets assume that the 3 digit number is (100*a) + (10*b) + c
+'c' is the digit in the units place
+'b' is the digit in the tens place
+'a' is the digit in the hundreds place
+[ (100*a) + (10*b) + c ] % 9
+[ ((99+1)*a) + ((9+1)*b) + c ] % 9
+[ (99*a) + (9*b) + a + b + c ] % 9
+[ a + b + c ] % 9 ..........from proof 2 part a
+You can see that the remainder does not depend on the places of the digits 'a', 'b' and 'c'
+
+Rearranging the digits 'a' 'b' and 'c' will yield the same remainder as [ a + b + c ] % 9
+(this can be generalized for not only 3 digits but any number of digits)
+Hence proved.
+any number which is divisible by 9 is also divisible by 3.
+Option A is the correct answer.
+
+
+
+Q6. Let the number be x
+x-21 = 71-x
+x = (21+71)/2
+
+
+
+Q10. so cube root of 18t must be an integer
+18t = 2*3*3*t
+so t must be t = 2*2*3 =12 <- answer
+so that
+18t = 2*3*3*t = 2*2*2*3*3*3
+and so cube root of 18t will be 2*3
+
+
+
+Q13. let the number be 10a+b
+10a+b = k(a+b)
+10b+a = w(a+b) ........we have to find w in terms of k
+add both equation
+11a+11b = (k+w)(a+b)
+11(a+b) = (k+w)(a+b)
+11 = k+w
+w = 11-k
+
+
+
+Q17. evaluate each bracket
+(2/3) * (3/4) * (4/5) ........((n-1)/n)
+almost everthing cancels out except numerator of first fraction and denominator of last fraction
+= 2/n
+
+
+
+Q19. Lets first name that charities -> A, B C
+Each one has total of 8 members (but not all are different people)
+4 are on all three charities (C1, C2, C3, C4)
+Any 2 has 5 ppl common -> apart from C1 to C4 one more person is common (AB, BC, AC)
+remaining are different
+A -> C1,  C2,  C3,  C4,  AB,  AC,  A1,  A2
+B -> C1,  C2,  C3,  C4,  AB,  BC,  B1,  B2
+B -> C1,  C2,  C3,  C4,  AC,  BC,  C1,  C2
+Total number of distinct ppl = 13
+
+
+
+Q20. Check all options
+A. (x+z)/z = integer + 1  = integer.......(x is a multiple of z)
+B. (y+z)/x = y/z  +  z/x  = integer + z/x ......(z/x may not be an integer) 
+C. (x+y)/z = integer ...... (x is a multiple of z) + (since, x is a factor of y -> y is a multiple of z)
+D. (xy)/z = integer ..... (x is a multiple of z)
+E. (yz)/x = integer .......(x is a factor of y)
+So, Option B is the answer
+
+

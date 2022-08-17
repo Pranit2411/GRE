@@ -1,0 +1,83 @@
+
+Q2. (greek letter omega) is an operator and its definition is given.
+[(1/4)^2 - (1/4)] - [(1/2)^2 - (1/2)] = [(1/16) - (1/4)] - [(1/4) - (1/2)] = 1/16
+
+
+
+Q3. First prime factorize 8100
+8100 = 2*2*3*3*3*3*5*5
+x = 3*3*3*3*5*5 ........x is odd so just get rid of '2' from the prime factors
+y = 5 .....biggest prime factor
+so, x*y = 10125
+
+
+
+Q7. First add 2 on both sides
+Then divide by 4 on both sides
+Then square both sides
+Then divide by two on both sides
+This will give you x=81/8
+Convert 81/8 to mixed fraction
+81/8 = 10+(1/8)
+And therefore, answer is Option E
+
+
+
+Q8. Make equations and solve. (H = cost of 1 hot-dog ) (S = cost of 1 soda)
+2H + S = 3.25 
+3H + S = 4.5
+2S = 1.5
+
+
+
+Q9. (skip this question for now if you are not able to solve)
+(We will be looking at how to solve these type of questions in latter class)
+
+
+
+Q11. if x > y, then x cannot divide y completely and vice versa.
+eg.  x=4;   y=2
+x/y -> remainder = 0 .....good
+y/x -> remainder = 2 .....bad
+So we come to the conclusion that x must be equal to y.
+
+
+
+Q12. 'z' is a (-)ve number
+all options have z in them
+If we want to multiply or divide a inequality with a (-)ve number, we will have to flip the sign.
+With that let's check all options
+A. xz<yz.......divide by z on both sides and flip sign 
+x>y.... this is wrong
+B. x/z < y/z .......multiply z on both sides and flip sign
+x>y.... this is wrong
+C. z/x > z/y......divide by z on both sides and flip sign 
+1/x < 1/y ..... this may or may not be correct as we don't know if x or y are (+)ve or (-)ve
+This statement is only conditionally true so it can't be the answer
+D. xz>yz.......divide by z on both sides and flip sign 
+x<y.... this is correct as it is given in the question itself.
+
+
+
+Q15. in a*b the  * (star) is an operator and not multiplication.
+and the definition of that operator is given.
+2*(3*4) = 2*[(3+4)(3)(4)] = 2*84 = (2+84)(2)(84) = 14448.
+
+
+
+Q16. Let two consecutive odd integers be 2n+1 and 2n+3
+So we get
+(2n+3)^2 - (2n+1)^2  = 152
+8n+8 = 152
+n= 18
+So, 2n+3 = 2(18)+3 = 39
+
+
+
+Q17. Hundreds place - 9 possibilities {1,2,3,4,5,6,7,8,9} (cannot be zero or else it will not be 3 digit number)
+Tens place - 5 possibilities {1,3,5,7,9}
+Units place - 5 possibilities {1,3,5,7,9}
+Total possibilities = 9*5*5 = 225
+(We will look at these type of concepts in more detail in Counting and Probability Chapter)
+
+
